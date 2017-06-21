@@ -1,2 +1,2 @@
 # mean-app
-Brincando com Stack MEAN.
+em construção
